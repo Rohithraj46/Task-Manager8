@@ -40,9 +40,12 @@ To get this project running on your local machine, follow these steps:
 
 ## Screenshots
 
-![Home screen](Add Task.jpeg)
-![Add Task](Add Task.jpeg)
-![Empty Task List](path/to/screenshot3.jpg)
+![image](https://github.com/user-attachments/assets/c4ac0c33-60c3-414c-9002-73db11cc1143)
+
+![image](https://github.com/user-attachments/assets/cd26502e-efb1-4040-81fb-8ada439c99f4)
+
+![image](https://github.com/user-attachments/assets/ee89319f-d3ca-45cb-a175-6c29d8a2e010)
+
 ![Task List](path/to/screenshot3.jpg)
 
 
