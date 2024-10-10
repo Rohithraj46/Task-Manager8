@@ -40,13 +40,15 @@ To get this project running on your local machine, follow these steps:
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/c4ac0c33-60c3-414c-9002-73db11cc1143)
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/e17f3635-01a2-4781-81ed-2b3f490c9dcb" alt="Image 1" width="300"/>
+  <img src="https://github.com/user-attachments/assets/f43c4445-5ba3-4b5b-a279-58d88418bc63" alt="Image 2" width="300"/>
+  <img src="https://github.com/user-attachments/assets/c4ac0c33-60c3-414c-9002-73db11cc1143" alt="Image 3" width="300"/>
+  <img src="https://github.com/user-attachments/assets/860a9ac7-11cb-41be-84fd-253c5c940598" alt="Image 4" width="300"/> 
+</p>
 
-![image](https://github.com/user-attachments/assets/cd26502e-efb1-4040-81fb-8ada439c99f4)
 
-![image](https://github.com/user-attachments/assets/ee89319f-d3ca-45cb-a175-6c29d8a2e010)
 
-![Task List](path/to/screenshot3.jpg)
 
 
 
