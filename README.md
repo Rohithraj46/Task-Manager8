@@ -40,7 +40,7 @@ To get this project running on your local machine, follow these steps:
 
 ## Screenshots
 
-![Home screen](path/to/screenshot1.jpg)
+![Home screen](Add Task.jpeg)
 ![Add Task](Add Task.jpeg)
 ![Empty Task List](path/to/screenshot3.jpg)
 ![Task List](path/to/screenshot3.jpg)
