@@ -19,10 +19,7 @@ A simple mobile app built with basics kotline modules for Android that helps you
 
 To get this project running on your local machine, follow these steps:
 
-### Prerequisites
 
-* [Specify IDE or framework, e.g., Flutter SDK, Android Studio]
-* [Other dependencies, e.g., Dart if using Flutter]
 
 ### Installation
 
